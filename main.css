@@ -238,7 +238,7 @@ margin-bottom:
 }
 
 .tabilog-backimage{
-    width:1080px;
+    width:auto;
     height:563px;
     background-image:url(images/top/tabilog-image.png);  
     background-size:1080px 563px;
